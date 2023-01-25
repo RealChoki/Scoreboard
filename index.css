@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url(https://imgs.search.brave.com/cfCqPtgWmS6jQYrQsKSTJfj-17Zp1m2-m7fyOCrHEYo/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5R/MXFxWmtLYU4yZlRC/VGJ3VmpjZElRSGFF/OCZwaWQ9QXBp);
+    font-family: Cursed Timer ULil;
+    color:white
+    
+}
+
+
+h2 {
+    font-size: 40px;
+    margin: 10px;
+}
+
+h1 {
+    border-radius: 7px;
+    background: #0a0001;
+    font-size: 70px;
+    color: #FF1493;
+    width: 150px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    Align-items: center;
+}
+
+button {
+    border-radius: 5px;
+    border-color: grey;
+    background: none;
+    color:grey;
+    width: 48px;
+    margin: 1px;
+    
+}
+
+
