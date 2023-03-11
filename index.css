@@ -1,9 +1,9 @@
 body {
     margin: 0;
     text-align: center;
-    background-image: url(https://imgs.search.brave.com/cfCqPtgWmS6jQYrQsKSTJfj-17Zp1m2-m7fyOCrHEYo/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5R/MXFxWmtLYU4yZlRC/VGJ3VmpjZElRSGFF/OCZwaWQ9QXBp);
-    font-family: Cursed Timer ULil;
-    color:white
+    background: #1B244A;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
     
 }
 
@@ -14,28 +14,61 @@ h2 {
 }
 
 h1 {
-    border-radius: 7px;
-    background: #0a0001;
-    font-size: 70px;
-    color: #FF1493;
-    width: 150px;
-    margin: 20px;
+    height: 120px;
+    width: 155px;
+    border-radius: 5px;
+    background-color: black;
+    font-family: Cursed Timer ULiL;
+    font-size: 90px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    color: #F94F6D;
+
+}
+
+.home {
+    margin: 10px 50px 10px;
+}
+
+.guest {
+    margin: 10px 50px 10px;
+}
+
+#reset {
+    width: 65px;
+    text-align: center;
 }
 
 .container {
     display: flex;
-    justify-content: space-around;
+    flex-direction: row;
+    justify-content: center;
     Align-items: center;
 }
 
 button {
     border-radius: 5px;
-    border-color: grey;
     background: none;
-    color:grey;
-    width: 48px;
-    margin: 1px;
+    color:#9AABD8;
+    width: 45px;
+    height: 45px;
+    border-color: #9AABD8;
+    font-family: Cursed Timer ULiL;
+    margin: 0px 3px;
+    
     
 }
+
+#secound-el{
+    margin: 20px 25px;
+}
+
+#first-el{
+    margin: 20px 25px;
+}
+
 
 
